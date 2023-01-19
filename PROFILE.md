@@ -10,3 +10,11 @@ For the task 2 - Communicate using Markdown
 ## Image
 
 ![application languages](https://user-images.githubusercontent.com/91416868/213435700-29eba5e6-6e43-46b6-9b8c-a378d76fcab6.jpg)
+
+
+## Code
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
